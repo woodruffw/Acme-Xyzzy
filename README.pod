@@ -12,9 +12,9 @@ version 0.001
 
 =head1 SYNOPSIS
 
-use Acme::Xyzzy;
+	use Acme::Xyzzy;
 
-xyzzy;
+	xyzzy;
 
 =head1 DESCRIPTION
 

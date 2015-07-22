@@ -8,9 +8,9 @@ version 0.001
 
 # SYNOPSIS
 
-use Acme::Xyzzy;
+        use Acme::Xyzzy;
 
-xyzzy;
+        xyzzy;
 
 # DESCRIPTION
 
