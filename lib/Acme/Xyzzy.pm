@@ -8,7 +8,7 @@ use warnings;
 use Exporter;
 use vars qw(@ISA @EXPORT);
 
-our $VERSION = "0.001"
+our $VERSION = "0.001";
 
 @ISA = ('Exporter');
 @EXPORT = ('xyzzy');
@@ -17,6 +17,8 @@ our $VERSION = "0.001"
 sub xyzzy {
 	print "Nothing happens.\n";
 }
+
+1;
 
 =head1 SYNOPSIS
 
