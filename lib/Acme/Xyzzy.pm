@@ -20,9 +20,9 @@ sub xyzzy {
 
 =head1 SYNOPSIS
 
-use Acme::Xyzzy;
+	use Acme::Xyzzy;
 
-xyzzy;
+	xyzzy;
 
 =head1 DESCRIPTION
 
